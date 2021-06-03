@@ -1,1 +1,2 @@
-yo
+def binaryconv(number):
+  
