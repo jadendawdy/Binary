@@ -1,2 +1,3 @@
-def binaryconv(number):
+number = 56
+return number
   
